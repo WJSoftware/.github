@@ -29,10 +29,10 @@ For the other two, please follow this checklist in order before opening a pull r
 
 It has happened in the past:
 
--Guy123: "Hey, here's a pull request for you that adds Feature X."
--Me: "I don't understand this very well, please explain to me this Feature X.  What's the use case?"
--Guy123:  "It is for this and that."
--Me: "Bro, just do ABC.  No need for this."
+- Guy123: "Hey, here's a pull request for you that adds Feature X."
+- Me: "I don't understand this very well, please explain to me this Feature X.  What's the use case?"
+- Guy123:  "It is for this and that."
+- Me: "Bro, just do ABC.  No need for this."
 
 So to save your time and effort, please be sure to **start with an issue**.
 
