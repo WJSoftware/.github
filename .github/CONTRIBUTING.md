@@ -47,7 +47,7 @@ For a pull request to be accepted, it must:
 
 ### Updating README
 
-If the repository contains a README that is technical in nature, describing every feature (or a lot of them), and a new feature is being added, it is ideal of the new README's section describing it starts with a quote block that states its minimum version.  Example:
+If the repository contains a README that is technical in nature, describing every feature (or a lot of them), and a new feature is being added, it is ideal of the new README's section describing it to start with a quote block that states its minimum version.  Example:
 
 ```markdown
 ## New Feature X
