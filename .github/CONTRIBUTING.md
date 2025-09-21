@@ -24,8 +24,8 @@ Developer experience is very important for the owner of this repository.  If som
 
 For the other two, please follow this checklist in order before opening a pull request:
 
-[ ] An issue has already been open and discussed
-[ ] The issue has been acknowledged as a bug or new feature request
+- [ ] An issue has already been open and discussed
+- [ ] The issue has been acknowledged as a bug or new feature request
 
 It has happened in the past:
 
